@@ -1,0 +1,12 @@
+Objective
+
+After completing this lesson, you will able to:
+* Retrieve database data by using the SELECT statement
+* Use the SELECT statement clauses: FROM, DISTINCT, WHERE, ORDER BY, and LIMIT
+* Explan the concept of a join
+* use the JOIN keyword to query multiple tables
+* Execute outer and inner joins 
+* Trobleshoot problems bby using warning and error messages
+* Dercribe and use SQL modes to change the interpretation of SQL Syntax
+
+
